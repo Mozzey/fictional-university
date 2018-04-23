@@ -1,0 +1,94 @@
+[22-Apr-2018 19:34:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 4
+[22-Apr-2018 19:34:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 4
+[22-Apr-2018 19:34:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 4
+[22-Apr-2018 19:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_footer() in /app/public/wp-content/themes/fictional-university-theme/index.php:103
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/index.php on line 103
+[22-Apr-2018 19:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_footer() in /app/public/wp-content/themes/fictional-university-theme/index.php:103
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/index.php on line 103
+[22-Apr-2018 19:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_footer() in /app/public/wp-content/themes/fictional-university-theme/index.php:103
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/index.php on line 103
+[22-Apr-2018 19:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_footer() in /app/public/wp-content/themes/fictional-university-theme/index.php:103
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/index.php on line 103
+[22-Apr-2018 19:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_footer() in /app/public/wp-content/themes/fictional-university-theme/index.php:103
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/index.php on line 103
+[22-Apr-2018 19:58:10 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 5
+[22-Apr-2018 19:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_footer() in /app/public/wp-content/themes/fictional-university-theme/index.php:103
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/index.php on line 103
+[22-Apr-2018 20:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_footer() in /app/public/wp-content/themes/fictional-university-theme/index.php:103
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/index.php on line 103
+[22-Apr-2018 20:00:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_footer() in /app/public/wp-content/themes/fictional-university-theme/index.php:103
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/index.php on line 103
+[22-Apr-2018 20:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_footer() in /app/public/wp-content/themes/fictional-university-theme/index.php:103
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/index.php on line 103
+[22-Apr-2018 20:10:44 UTC] PHP Parse error:  syntax error, unexpected 'NULL' (T_STRING), expecting ',' or ')' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 7
+[22-Apr-2018 20:10:57 UTC] PHP Parse error:  syntax error, unexpected 'NULL' (T_STRING), expecting ',' or ')' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 7
+[22-Apr-2018 20:10:57 UTC] PHP Parse error:  syntax error, unexpected 'NULL' (T_STRING), expecting ',' or ')' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 7
+[22-Apr-2018 21:30:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/page.php on line 20 and exactly 1 expected in /app/public/wp-includes/post.php:6076
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/page.php(20): wp_get_post_parent_id()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/post.php on line 6076
+[22-Apr-2018 21:30:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/page.php on line 20 and exactly 1 expected in /app/public/wp-includes/post.php:6076
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/page.php(20): wp_get_post_parent_id()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/post.php on line 6076
+[22-Apr-2018 21:30:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/page.php on line 20 and exactly 1 expected in /app/public/wp-includes/post.php:6076
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/page.php(20): wp_get_post_parent_id()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/post.php on line 6076

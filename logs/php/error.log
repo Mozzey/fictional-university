@@ -92,3 +92,10 @@ Stack trace:
 #3 /app/public/index.php(17): require('/app/public/wp-...')
 #4 {main}
   thrown in /app/public/wp-includes/post.php on line 6076
+[26-Apr-2018 13:45:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-admin/includes/translation-install.php on line 65
+[26-Apr-2018 14:03:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-admin/includes/translation-install.php on line 65
+[26-Apr-2018 17:11:26 UTC] PHP Parse error:  syntax error, unexpected ''rewrite'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/mu-plugins/university-post-types.php on line 6
+[26-Apr-2018 17:11:26 UTC] PHP Parse error:  syntax error, unexpected ''rewrite'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/mu-plugins/university-post-types.php on line 6
+[26-Apr-2018 17:11:26 UTC] PHP Parse error:  syntax error, unexpected ''rewrite'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/mu-plugins/university-post-types.php on line 6
+[26-Apr-2018 18:13:23 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 23
+[26-Apr-2018 18:13:47 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 23

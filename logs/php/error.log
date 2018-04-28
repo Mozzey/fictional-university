@@ -99,3 +99,4 @@ Stack trace:
 [26-Apr-2018 17:11:26 UTC] PHP Parse error:  syntax error, unexpected ''rewrite'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/mu-plugins/university-post-types.php on line 6
 [26-Apr-2018 18:13:23 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 23
 [26-Apr-2018 18:13:47 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 23
+[27-Apr-2018 13:24:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
